@@ -1,1 +1,1 @@
-# Filterable gallery using HTML/CSS
+# Simple filterable gallery using HTML/CSS/JS  + jQuery
