@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    padding: 1rem;
+    width: 1200px;
+    margin: 2rem auto;
+}
+
+section ul {
+    display: flex;
+    margin-bottom: 0.5rem;
+}
+
+section ul li {
+    list-style: none;
+    background: #eee;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+section ul li.active {
+    background: turquoise;
+    color: white;
+}
+
